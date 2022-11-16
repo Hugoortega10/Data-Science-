@@ -1,0 +1,49 @@
+"Title:","3-Bedroom Unit from the Fair Market Rent Database"
+"SubTitle:","County"
+"Time:","1985 - 2020"
+"Unit of Measure:","$","$","$","$","$","$"
+"Citation:","United States Department of Housing and Urban Development (2022-11-03). Fair Market Rent: 3-Bedroom Unit | Albany County, Bronx County, Putnam County, Queens County, Rockland County, Westchester County, 1985 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  009-001-004 doi:https://doi.org/10.6068/DP18480A5991E39"
+"ColumnCount:",7
+"RowCount:",35
+
+"Time","Albany County, New York ($)","Bronx County, New York ($)","Putnam County, New York ($)","Queens County, New York ($)","Rockland County, New York ($)","Westchester County, New York ($)"
+"1985",477,540,540,540,540,540
+"1986",490,590,590,590,590,590
+"1987",524,631,631,631,631,631
+"1988",551,671,671,671,671,802
+"1989",578,709,709,709,709,842
+"1990",607,743,743,743,743,883
+"1991",640,783,783,783,783,931
+"1992",671,826,826,826,826,983
+"1993",689,854,854,854,854,1016
+"1994",723,1025,1025,1025,1025,1269
+"1995",710,998,998,998,998,1250
+"1996",731,1022,1022,1022,1022,1280
+"1997",734,1048,1048,1048,1048,1313
+"1998",746,1078,1078,1078,1078,1350
+"1999",754,1114,1114,1114,1114,1395
+"2000",758,1150,1150,1150,1150,1440
+"2001",762,1187,1187,1187,1187,1486
+"2002",779,1242,1242,1242,1242,1554
+"2003",794,1289,1289,1289,1289,1613
+"2004",795,1342,1342,1342,1342,1680
+"2005",813,1322,1322,1322,1322,1532
+"2006",856,1406,1406,1406,1406,1587
+"2007",900,1462,1462,1462,1462,1682
+"2008",1019,1621,1621,1621,1621,1832
+"2009",1039,1615,1615,1615,1615,1942
+"2010",1039,1615,1615,1615,1615,1942
+"2011",1077,1726,1726,1726,1726,1883
+"2012",1041,1752,1752,1752,1752,1905
+"2013",1147,1895,1895,1895,1895,1877
+"2015",1206,1904,1904,1904,1904,2035
+"2016",1247,2021,2021,2021,2021,1942
+"2017",1259,2102,2102,2102,2102,2197
+"2018",1294,2280,2280,2280,2280,2167
+"2019",1397,2324,2324,2324,2324,2283
+"2020",1313,2472,2472,2472,2472,2543
+
+
+
+"Publisher:", "United States Department of Housing and Urban Development"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
